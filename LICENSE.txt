@@ -1,0 +1,10 @@
+Antlers-Harmonypatch mod and its source code are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0):
+https://creativecommons.org/licenses/by-nc/4.0/
+
+In short, and with the following additional permissions from the author:
+
+1. Attribution is appreciated by the mod author, but attribution is not required to use this mod or source code. If you choose to, link back to its original Github page.
+
+2. Non-commercial - you may not distribute the mod or source code and gain commercial value from it.
+
+3. Additionally, Anego Studios may use, modify and incorporate this code into Vintage Story under any terms, including commercial use.

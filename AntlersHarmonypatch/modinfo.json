@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "antlersharmonypatchfirefalcon",
+  "name": "Antlers-Harmonypatch by _Firefalcon_",
+  "authors": ["_Firefalcon_"],
+  "description": "Fixes ''phantom'' antlers that cannot be picked up when shedding during loading or entering chunks.",
+  "version": "1.0.0",
+  "side": "Server",
+  "requiredOnClient": false,
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
